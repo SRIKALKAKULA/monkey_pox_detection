@@ -11,7 +11,7 @@ from pages import poxAnalysis
 app = MultiPage()
 
 # Title of the main page
-display = Image.open('cover.png')
+display = Image.open('./cover.png')
 display = np.array(display)
 st.image(display)
 st.title("Monkey Pox Disease Detection")
