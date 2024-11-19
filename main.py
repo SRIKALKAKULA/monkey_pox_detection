@@ -20,7 +20,7 @@ st.text("Pox (Affected Or Not) : To detect chances of MonkeyPox, Measles and Chi
 
 
 # Add all your application here
-app.add_page("Pox Analysis", poxAnalysis.app)
+#app.add_page("Pox Analysis", poxAnalysis.app)
 
 
 
